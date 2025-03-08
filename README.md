@@ -120,4 +120,6 @@ npm run dev
 - Vue.js 3
 - Vite
 - Leaflet
-- Axios 
+- Axios
+
+目前大部分代码由AI生成，后期学习继续更改
