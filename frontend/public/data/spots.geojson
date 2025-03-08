@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "都江堰", "desc": "古代水利工程" },
+      "geometry": { "type": "Point", "coordinates": [103.6066, 30.9910] }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "都江堰",
+    "location_lng": 103.619321,
+    "location_lat": 31.003956,
+    "description": "都江堰是世界文化遗产，全国重点文物保护单位，国家5A级旅游景区。",
+    "category": "历史文化",
+    "address": "成都市都江堰市都江堰景区",
+    "opening_hours": "08:00-18:00",
+    "ticket_price": 90.0,
+    "images": [
+      "https://youimg1.c-ctrip.com/target/100h0z000000nk7zy9A7F.jpg"
+    ]
+  },
+  {
+    "name": "武侯祠",
+    "location_lng": 104.047247,
+    "location_lat": 30.642866,
+    "description": "武侯祠是中国唯一的一座君臣合祀祠庙，是全国重点文物保护单位。",
+    "category": "历史文化",
+    "address": "成都市武侯区武侯祠大街231号",
+    "opening_hours": "08:00-18:00",
+    "ticket_price": 60.0,
+    "images": [
+      "https://youimg1.c-ctrip.com/target/100j0z000000nfxvl9F2F.jpg"
+    ]
+  }
+]

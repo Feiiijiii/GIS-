@@ -1,0 +1,497 @@
+2025-03-03 15:14:32,582 - static_scraper_test - INFO - 开始测试静态数据爬虫
+2025-03-03 15:14:36,024 - static_scraper_test - WARNING - 无法获取位置信息，使用默认坐标。地址: 成都市都江堰市都江堰景区
+2025-03-03 15:14:36,027 - static_scraper_test - INFO - 已处理景点: 都江堰
+2025-03-03 15:14:38,102 - static_scraper_test - WARNING - 无法获取位置信息，使用默认坐标。地址: 成都市武侯区武侯祠大街231号
+2025-03-03 15:14:38,104 - static_scraper_test - INFO - 已处理景点: 武侯祠
+2025-03-03 15:14:38,605 - static_scraper_test - INFO - 处理完成，共获取 2 个景点信息
+2025-03-03 15:14:38,605 - static_scraper_test - INFO - 成功获取 2 个景点数据
+2025-03-03 15:14:38,606 - static_scraper_test - INFO - 第一个景点信息: {
+  "name": "都江堰",
+  "location_lng": 104.07,
+  "location_lat": 30.67,
+  "description": "都江堰是世界文化遗产，全国重点文物保护单位，国家5A级旅游景区。",
+  "category": "历史文化",
+  "address": "成都市都江堰市都江堰景区",
+  "opening_hours": "08:00-18:00",
+  "ticket_price": 90.0,
+  "images": [
+    "https://youimg1.c-ctrip.com/target/100h0z000000nk7zy9A7F.jpg"
+  ]
+}
+2025-03-03 15:15:49,261 - static_scraper_test - INFO - 开始测试静态数据爬虫
+2025-03-03 15:15:52,765 - static_scraper_test - INFO - 高德地图API响应: {"info": "USERKEY_PLAT_NOMATCH", "infocode": "10009", "status": "0", "sec_code_debug": "d41d8cd98f00b204e9800998ecf8427e", "key": "9b0e72c78d27f90e1d297e7af09d2c0e", "sec_code": "8283ec1d8fa6ee00389969d473f5283f"}
+2025-03-03 15:15:52,765 - static_scraper_test - WARNING - 无法获取位置信息，使用默认坐标。地址: 都江堰市都江堰景区
+2025-03-03 15:15:52,767 - static_scraper_test - INFO - 已处理景点: 都江堰
+2025-03-03 15:15:54,858 - static_scraper_test - INFO - 高德地图API响应: {"info": "USERKEY_PLAT_NOMATCH", "infocode": "10009", "status": "0", "sec_code_debug": "d41d8cd98f00b204e9800998ecf8427e", "key": "9b0e72c78d27f90e1d297e7af09d2c0e", "sec_code": "8283ec1d8fa6ee00389969d473f5283f"}
+2025-03-03 15:15:54,858 - static_scraper_test - WARNING - 无法获取位置信息，使用默认坐标。地址: 武侯区武侯祠大街231号
+2025-03-03 15:15:54,860 - static_scraper_test - INFO - 已处理景点: 武侯祠
+2025-03-03 15:15:55,361 - static_scraper_test - INFO - 处理完成，共获取 2 个景点信息
+2025-03-03 15:15:55,362 - static_scraper_test - INFO - 成功获取 2 个景点数据
+2025-03-03 15:15:55,362 - static_scraper_test - INFO - 第一个景点信息: {
+  "name": "都江堰",
+  "location_lng": 104.07,
+  "location_lat": 30.67,
+  "description": "都江堰是世界文化遗产，全国重点文物保护单位，国家5A级旅游景区。",
+  "category": "历史文化",
+  "address": "成都市都江堰市都江堰景区",
+  "opening_hours": "08:00-18:00",
+  "ticket_price": 90.0,
+  "images": [
+    "https://youimg1.c-ctrip.com/target/100h0z000000nk7zy9A7F.jpg"
+  ]
+}
+2025-03-03 15:16:57,307 - static_scraper_test - INFO - 开始测试静态数据爬虫
+2025-03-03 15:16:57,307 - static_scraper_test - INFO - 已处理景点: 都江堰
+2025-03-03 15:16:57,308 - static_scraper_test - INFO - 已处理景点: 武侯祠
+2025-03-03 15:16:57,308 - static_scraper_test - INFO - 处理完成，共获取 2 个景点信息
+2025-03-03 15:16:57,308 - static_scraper_test - INFO - 成功获取 2 个景点数据
+2025-03-03 15:16:57,309 - static_scraper_test - INFO - 第一个景点信息: {
+  "name": "都江堰",
+  "location_lng": 103.619321,
+  "location_lat": 31.003956,
+  "description": "都江堰是世界文化遗产，全国重点文物保护单位，国家5A级旅游景区。",
+  "category": "历史文化",
+  "address": "成都市都江堰市都江堰景区",
+  "opening_hours": "08:00-18:00",
+  "ticket_price": 90.0,
+  "images": [
+    "https://youimg1.c-ctrip.com/target/100h0z000000nk7zy9A7F.jpg"
+  ]
+}
+2025-03-03 15:20:07,617 - static_scraper_test - INFO - 开始获取景点数据
+2025-03-03 15:20:07,618 - static_scraper_test - INFO - 正在搜索关键词: 景点
+2025-03-03 15:20:09,236 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:11,297 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:13,676 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:14,178 - static_scraper_test - INFO - 正在搜索关键词: 旅游景点
+2025-03-03 15:20:15,786 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:17,875 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:19,966 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:20,468 - static_scraper_test - INFO - 正在搜索关键词: 名胜古迹
+2025-03-03 15:20:22,036 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:24,156 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:26,287 - static_scraper_test - ERROR - POI搜索失败: USERKEY_PLAT_NOMATCH
+2025-03-03 15:20:26,789 - static_scraper_test - INFO - 处理完成，共获取 0 个景点信息
+2025-03-03 15:20:26,790 - static_scraper_test - WARNING - 未获取到任何景点数据
+2025-03-03 15:23:33,856 - static_scraper_test - INFO - 开始获取景点数据
+2025-03-03 15:23:33,857 - static_scraper_test - INFO - 正在搜索关键词: 景点
+2025-03-03 15:23:36,515 - static_scraper_test - INFO - 已添加景点: 成都双子塔
+2025-03-03 15:23:36,515 - static_scraper_test - INFO - 已添加景点: 锦城公园
+2025-03-03 15:23:36,515 - static_scraper_test - INFO - 已添加景点: 成都江滩公园
+2025-03-03 15:23:36,515 - static_scraper_test - INFO - 已添加景点: 桂溪生态公园
+2025-03-03 15:23:36,516 - static_scraper_test - INFO - 已添加景点: 铁像寺
+2025-03-03 15:23:36,516 - static_scraper_test - INFO - 已添加景点: 铁像寺水街
+2025-03-03 15:23:36,516 - static_scraper_test - INFO - 已添加景点: 生机之塔
+2025-03-03 15:23:36,516 - static_scraper_test - INFO - 已添加景点: 锦城湖
+2025-03-03 15:23:36,516 - static_scraper_test - INFO - 已添加景点: 双子塔夜景打卡点
+2025-03-03 15:23:36,516 - static_scraper_test - INFO - 已添加景点: 天府绿道
+2025-03-03 15:23:36,517 - static_scraper_test - INFO - 已添加景点: 大源中央公园
+2025-03-03 15:23:36,517 - static_scraper_test - INFO - 已添加景点: 中和湿地公园
+2025-03-03 15:23:36,517 - static_scraper_test - INFO - 已添加景点: UPARK公园
+2025-03-03 15:23:36,517 - static_scraper_test - ERROR - 处理POI数据出错: can only concatenate str (not "list") to str
+2025-03-03 15:23:36,518 - static_scraper_test - INFO - 已添加景点: 东湖公园
+2025-03-03 15:23:36,518 - static_scraper_test - INFO - 已添加景点: 桂溪生态公园西区
+2025-03-03 15:23:36,518 - static_scraper_test - INFO - 已添加景点: 望江楼公园
+2025-03-03 15:23:36,518 - static_scraper_test - INFO - 已添加景点: 成都武侯祠博物馆
+2025-03-03 15:23:36,518 - static_scraper_test - INFO - 已添加景点: 桂溪生态公园东区
+2025-03-03 15:23:36,519 - static_scraper_test - INFO - 已添加景点: 锦里古街
+2025-03-03 15:23:39,037 - static_scraper_test - INFO - 已添加景点: 三圣花乡旅游区
+2025-03-03 15:23:39,037 - static_scraper_test - INFO - 已添加景点: 环球中心海洋乐园
+2025-03-03 15:23:39,038 - static_scraper_test - INFO - 已添加景点: 宽窄巷子景区
+2025-03-03 15:23:39,038 - static_scraper_test - INFO - 已添加景点: 交子金融博物馆
+2025-03-03 15:23:39,038 - static_scraper_test - INFO - 已添加景点: 哪吒雕像
+2025-03-03 15:23:39,038 - static_scraper_test - INFO - 已添加景点: 近慈寺
+2025-03-03 15:23:39,038 - static_scraper_test - INFO - 已添加景点: 立巢航空博物馆
+2025-03-03 15:23:39,039 - static_scraper_test - INFO - 已添加景点: 人民公园
+2025-03-03 15:23:39,039 - static_scraper_test - INFO - 已添加景点: 天府广场
+2025-03-03 15:23:39,039 - static_scraper_test - INFO - 已添加景点: 东郊记忆
+2025-03-03 15:23:39,039 - static_scraper_test - INFO - 已添加景点: 锦城湖2号湖区
+2025-03-03 15:23:39,039 - static_scraper_test - INFO - 已添加景点: 三和老爷车博物馆
+2025-03-03 15:23:39,040 - static_scraper_test - INFO - 已添加景点: 西蜀廊桥古镇
+2025-03-03 15:23:39,040 - static_scraper_test - INFO - 已添加景点: 成都极地海洋公园
+2025-03-03 15:23:39,040 - static_scraper_test - INFO - 已添加景点: 南湖公园
+2025-03-03 15:23:39,040 - static_scraper_test - INFO - 已添加景点: 文殊院
+2025-03-03 15:23:39,040 - static_scraper_test - INFO - 已添加景点: 成都博物馆
+2025-03-03 15:23:39,040 - static_scraper_test - INFO - 已添加景点: 塔子山公园
+2025-03-03 15:23:39,041 - static_scraper_test - INFO - 已添加景点: 隅上田园交子百业园
+2025-03-03 15:23:39,041 - static_scraper_test - INFO - 已添加景点: 和平社区广场
+2025-03-03 15:23:41,282 - static_scraper_test - INFO - 已添加景点: 成都大熊猫繁育研究基地
+2025-03-03 15:23:41,282 - static_scraper_test - INFO - 已添加景点: 美洲四季滑雪场
+2025-03-03 15:23:41,283 - static_scraper_test - INFO - 已添加景点: 成都杜甫草堂博物馆
+2025-03-03 15:23:41,283 - static_scraper_test - INFO - 已添加景点: 大慈寺
+2025-03-03 15:23:41,283 - static_scraper_test - INFO - 已添加景点: 江家艺苑
+2025-03-03 15:23:41,283 - static_scraper_test - INFO - 已添加景点: 基督教光音堂
+2025-03-03 15:23:41,283 - static_scraper_test - INFO - 已添加景点: 锦江公园
+2025-03-03 15:23:41,284 - static_scraper_test - INFO - 已添加景点: 博雅城市广场
+2025-03-03 15:23:41,284 - static_scraper_test - INFO - 已添加景点: 梵木Flying国际文创公园
+2025-03-03 15:23:41,284 - static_scraper_test - INFO - 已添加景点: 幸福梅林
+2025-03-03 15:23:41,284 - static_scraper_test - INFO - 已添加景点: 天府芙蓉园
+2025-03-03 15:23:41,284 - static_scraper_test - INFO - 已添加景点: 锦城广场
+2025-03-03 15:23:41,284 - static_scraper_test - INFO - 已添加景点: 四川大学博物馆
+2025-03-03 15:23:41,285 - static_scraper_test - INFO - 已添加景点: 芙蓉岛公园
+2025-03-03 15:23:41,285 - static_scraper_test - INFO - 已添加景点: 青羊宫
+2025-03-03 15:23:41,285 - static_scraper_test - INFO - 已添加景点: 成都动物园
+2025-03-03 15:23:41,285 - static_scraper_test - INFO - 已添加景点: 锦城湖4号湖区
+2025-03-03 15:23:41,285 - static_scraper_test - INFO - 已添加景点: 水井坊锦江体育公园
+2025-03-03 15:23:41,285 - static_scraper_test - INFO - 已添加景点: 新川之心公园东区
+2025-03-03 15:23:41,286 - static_scraper_test - INFO - 已添加景点: 四川博物院
+2025-03-03 15:23:41,786 - static_scraper_test - INFO - 正在搜索关键词: 旅游景点
+2025-03-03 15:23:43,517 - static_scraper_test - ERROR - 处理POI数据出错: can only concatenate str (not "list") to str
+2025-03-03 15:23:48,576 - static_scraper_test - INFO - 正在搜索关键词: 名胜古迹
+2025-03-03 15:23:50,257 - static_scraper_test - INFO - 已添加景点: 安仁古镇
+2025-03-03 15:23:50,257 - static_scraper_test - INFO - 已添加景点: 大邑县刘氏庄园博物馆
+2025-03-03 15:23:50,257 - static_scraper_test - INFO - 已添加景点: 洛带古镇
+2025-03-03 15:23:50,258 - static_scraper_test - INFO - 已添加景点: 燃灯古寺
+2025-03-03 15:23:50,258 - static_scraper_test - INFO - 已添加景点: 洛带古镇五凤楼
+2025-03-03 15:23:50,258 - static_scraper_test - INFO - 已添加景点: 杜甫草堂-茅屋故居
+2025-03-03 15:23:50,258 - static_scraper_test - INFO - 已添加景点: 万佛楼
+2025-03-03 15:23:50,259 - static_scraper_test - INFO - 已添加景点: 黄龙溪古镇
+2025-03-03 15:23:50,259 - static_scraper_test - INFO - 已添加景点: 街子古镇
+2025-03-03 15:23:50,259 - static_scraper_test - INFO - 已添加景点: 石经寺
+2025-03-03 15:23:50,259 - static_scraper_test - INFO - 已添加景点: 金沙遗址博物馆
+2025-03-03 15:23:50,259 - static_scraper_test - INFO - 已添加景点: 五凤溪古镇
+2025-03-03 15:23:50,259 - static_scraper_test - INFO - 已添加景点: 灌县古城
+2025-03-03 15:23:50,260 - static_scraper_test - INFO - 已添加景点: 都江堰文庙
+2025-03-03 15:23:50,260 - static_scraper_test - INFO - 已添加景点: 宝光桂湖文化旅游区宝光寺
+2025-03-03 15:23:52,500 - static_scraper_test - INFO - 已添加景点: 宝光寺-罗汉堂
+2025-03-03 15:23:52,500 - static_scraper_test - INFO - 已添加景点: 昭觉寺
+2025-03-03 15:23:52,500 - static_scraper_test - INFO - 已添加景点: 元通古镇
+2025-03-03 15:23:52,501 - static_scraper_test - INFO - 已添加景点: 平乐古镇
+2025-03-03 15:23:52,501 - static_scraper_test - INFO - 已添加景点: 三道堰古镇
+2025-03-03 15:23:52,501 - static_scraper_test - INFO - 已添加景点: 金龙长城
+2025-03-03 15:23:52,501 - static_scraper_test - INFO - 已添加景点: 木兰寺
+2025-03-03 15:23:52,501 - static_scraper_test - INFO - 已添加景点: 临邛古城
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 新场古镇
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 普照寺
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 海窝子古镇
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 温江文庙
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 西来古镇
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 白云寺
+2025-03-03 15:23:52,502 - static_scraper_test - INFO - 已添加景点: 怀远古镇
+2025-03-03 15:23:52,503 - static_scraper_test - INFO - 已添加景点: 夹关古镇
+2025-03-03 15:23:52,503 - static_scraper_test - INFO - 已添加景点: 泰安古镇
+2025-03-03 15:23:52,503 - static_scraper_test - INFO - 已添加景点: 琴台故径
+2025-03-03 15:23:52,503 - static_scraper_test - INFO - 已添加景点: 皇城清真寺
+2025-03-03 15:23:54,686 - static_scraper_test - INFO - 已添加景点: 猫猫庙
+2025-03-03 15:23:54,687 - static_scraper_test - INFO - 已添加景点: 唐昌古镇-崇槐里
+2025-03-03 15:23:54,687 - static_scraper_test - INFO - 已添加景点: 洛带古镇-博客楼
+2025-03-03 15:23:54,687 - static_scraper_test - INFO - 已添加景点: 都江堰景区秦堰楼
+2025-03-03 15:23:54,687 - static_scraper_test - INFO - 已添加景点: 赵公祖庙
+2025-03-03 15:23:54,687 - static_scraper_test - INFO - 已添加景点: 都江堰景区二王庙
+2025-03-03 15:23:54,688 - static_scraper_test - INFO - 已添加景点: 悦来古镇
+2025-03-03 15:23:54,688 - static_scraper_test - INFO - 已添加景点: 慈云寺
+2025-03-03 15:23:54,688 - static_scraper_test - INFO - 已添加景点: 新都钟楼
+2025-03-03 15:23:54,689 - static_scraper_test - INFO - 已添加景点: 开化寺
+2025-03-03 15:23:54,689 - static_scraper_test - INFO - 已添加景点: 崇州唐人街牌坊
+2025-03-03 15:23:54,689 - static_scraper_test - INFO - 已添加景点: 火井古镇
+2025-03-03 15:23:54,689 - static_scraper_test - INFO - 已添加景点: 老君阁
+2025-03-03 15:23:54,689 - static_scraper_test - INFO - 已添加景点: 般若寺
+2025-03-03 15:23:54,690 - static_scraper_test - INFO - 已添加景点: 客家杏花村
+2025-03-03 15:23:54,690 - static_scraper_test - INFO - 已添加景点: 三学禅院
+2025-03-03 15:23:54,690 - static_scraper_test - INFO - 已添加景点: 唐昌古镇文庙广场
+2025-03-03 15:23:54,690 - static_scraper_test - INFO - 已添加景点: 郫县古城遗址
+2025-03-03 15:23:54,690 - static_scraper_test - INFO - 已添加景点: 高堂寺
+2025-03-03 15:23:54,691 - static_scraper_test - INFO - 已添加景点: 开照寺
+2025-03-03 15:23:55,191 - static_scraper_test - INFO - 处理完成，共获取 113 个景点信息
+2025-03-03 15:23:55,192 - static_scraper_test - INFO - 成功获取 113 个景点数据
+2025-03-03 15:23:55,196 - static_scraper_test - INFO - 景点 1 信息: {
+  "name": "成都双子塔",
+  "location_lng": 104.064759,
+  "location_lat": 30.582588,
+  "description": "冰花,元宵",
+  "category": "商务住宅;楼宇;商务写字楼",
+  "address": "交子北一路与交子大道交叉口东60米",
+  "opening_hours": "09:00-17:00",
+  "ticket_price": 0.0,
+  "images": []
+}
+2025-03-03 15:23:55,197 - static_scraper_test - INFO - 景点 2 信息: {
+  "name": "锦城公园",
+  "location_lng": 104.052308,
+  "location_lat": 30.570449,
+  "description": [],
+  "category": "风景名胜;公园广场;公园",
+  "address": "益州大道北段1666号",
+  "opening_hours": "09:00-17:00",
+  "ticket_price": 0.0,
+  "images": []
+}
+2025-03-03 15:23:55,197 - static_scraper_test - INFO - 景点 3 信息: {
+  "name": "成都江滩公园",
+  "location_lng": 104.080905,
+  "location_lat": 30.555514,
+  "description": [],
+  "category": "风景名胜;公园广场;公园",
+  "address": "世纪城路",
+  "opening_hours": "09:00-17:00",
+  "ticket_price": 0.0,
+  "images": []
+}
+2025-03-03 15:29:03,812 - static_scraper_test - INFO - 开始获取景点数据
+2025-03-03 15:29:03,813 - static_scraper_test - INFO - 正在搜索关键词: 景点
+2025-03-03 15:29:05,649 - static_scraper_test - INFO - 已添加景点: 成都双子塔
+2025-03-03 15:29:05,650 - static_scraper_test - INFO - 已添加景点: 锦城公园
+2025-03-03 15:29:05,650 - static_scraper_test - INFO - 已添加景点: 成都江滩公园
+2025-03-03 15:29:05,650 - static_scraper_test - INFO - 已添加景点: 桂溪生态公园
+2025-03-03 15:29:05,651 - static_scraper_test - INFO - 已添加景点: 铁像寺
+2025-03-03 15:29:05,651 - static_scraper_test - INFO - 已添加景点: 铁像寺水街
+2025-03-03 15:29:05,651 - static_scraper_test - INFO - 已添加景点: 生机之塔
+2025-03-03 15:29:05,651 - static_scraper_test - INFO - 已添加景点: 锦城湖
+2025-03-03 15:29:05,652 - static_scraper_test - INFO - 已添加景点: 双子塔夜景打卡点
+2025-03-03 15:29:05,652 - static_scraper_test - INFO - 已添加景点: 天府绿道
+2025-03-03 15:29:05,652 - static_scraper_test - INFO - 已添加景点: 大源中央公园
+2025-03-03 15:29:05,652 - static_scraper_test - INFO - 已添加景点: 中和湿地公园
+2025-03-03 15:29:05,652 - static_scraper_test - INFO - 已添加景点: UPARK公园
+2025-03-03 15:29:05,652 - static_scraper_test - ERROR - 处理POI数据出错: can only concatenate str (not "list") to str
+2025-03-03 15:29:05,653 - static_scraper_test - INFO - 已添加景点: 东湖公园
+2025-03-03 15:29:05,653 - static_scraper_test - INFO - 已添加景点: 桂溪生态公园西区
+2025-03-03 15:29:05,653 - static_scraper_test - INFO - 已添加景点: 望江楼公园
+2025-03-03 15:29:05,653 - static_scraper_test - INFO - 已添加景点: 成都武侯祠博物馆
+2025-03-03 15:29:05,653 - static_scraper_test - INFO - 已添加景点: 桂溪生态公园东区
+2025-03-03 15:29:05,653 - static_scraper_test - INFO - 已添加景点: 锦里古街
+2025-03-03 15:29:07,984 - static_scraper_test - INFO - 已添加景点: 三圣花乡旅游区
+2025-03-03 15:29:07,985 - static_scraper_test - INFO - 已添加景点: 环球中心海洋乐园
+2025-03-03 15:29:07,985 - static_scraper_test - INFO - 已添加景点: 宽窄巷子景区
+2025-03-03 15:29:07,985 - static_scraper_test - INFO - 已添加景点: 交子金融博物馆
+2025-03-03 15:29:07,985 - static_scraper_test - INFO - 已添加景点: 哪吒雕像
+2025-03-03 15:29:07,985 - static_scraper_test - INFO - 已添加景点: 近慈寺
+2025-03-03 15:29:07,985 - static_scraper_test - INFO - 已添加景点: 立巢航空博物馆
+2025-03-03 15:29:07,986 - static_scraper_test - INFO - 已添加景点: 人民公园
+2025-03-03 15:29:07,986 - static_scraper_test - INFO - 已添加景点: 天府广场
+2025-03-03 15:29:07,986 - static_scraper_test - INFO - 已添加景点: 东郊记忆
+2025-03-03 15:29:07,986 - static_scraper_test - INFO - 已添加景点: 锦城湖2号湖区
+2025-03-03 15:29:07,986 - static_scraper_test - INFO - 已添加景点: 三和老爷车博物馆
+2025-03-03 15:29:07,986 - static_scraper_test - INFO - 已添加景点: 西蜀廊桥古镇
+2025-03-03 15:29:07,987 - static_scraper_test - INFO - 已添加景点: 成都极地海洋公园
+2025-03-03 15:29:07,987 - static_scraper_test - INFO - 已添加景点: 南湖公园
+2025-03-03 15:29:07,987 - static_scraper_test - INFO - 已添加景点: 文殊院
+2025-03-03 15:29:07,987 - static_scraper_test - INFO - 已添加景点: 成都博物馆
+2025-03-03 15:29:07,987 - static_scraper_test - INFO - 已添加景点: 塔子山公园
+2025-03-03 15:29:07,987 - static_scraper_test - INFO - 已添加景点: 隅上田园交子百业园
+2025-03-03 15:29:07,988 - static_scraper_test - INFO - 已添加景点: 和平社区广场
+2025-03-03 15:29:10,279 - static_scraper_test - INFO - 已添加景点: 成都大熊猫繁育研究基地
+2025-03-03 15:29:10,280 - static_scraper_test - INFO - 已添加景点: 美洲四季滑雪场
+2025-03-03 15:29:10,280 - static_scraper_test - INFO - 已添加景点: 成都杜甫草堂博物馆
+2025-03-03 15:29:10,280 - static_scraper_test - INFO - 已添加景点: 大慈寺
+2025-03-03 15:29:10,280 - static_scraper_test - INFO - 已添加景点: 江家艺苑
+2025-03-03 15:29:10,281 - static_scraper_test - INFO - 已添加景点: 基督教光音堂
+2025-03-03 15:29:10,281 - static_scraper_test - INFO - 已添加景点: 锦江公园
+2025-03-03 15:29:10,281 - static_scraper_test - INFO - 已添加景点: 博雅城市广场
+2025-03-03 15:29:10,281 - static_scraper_test - INFO - 已添加景点: 梵木Flying国际文创公园
+2025-03-03 15:29:10,281 - static_scraper_test - INFO - 已添加景点: 幸福梅林
+2025-03-03 15:29:10,281 - static_scraper_test - INFO - 已添加景点: 天府芙蓉园
+2025-03-03 15:29:10,282 - static_scraper_test - INFO - 已添加景点: 锦城广场
+2025-03-03 15:29:10,282 - static_scraper_test - INFO - 已添加景点: 四川大学博物馆
+2025-03-03 15:29:10,282 - static_scraper_test - INFO - 已添加景点: 芙蓉岛公园
+2025-03-03 15:29:10,282 - static_scraper_test - INFO - 已添加景点: 青羊宫
+2025-03-03 15:29:10,282 - static_scraper_test - INFO - 已添加景点: 成都动物园
+2025-03-03 15:29:10,282 - static_scraper_test - INFO - 已添加景点: 锦城湖4号湖区
+2025-03-03 15:29:10,283 - static_scraper_test - INFO - 已添加景点: 水井坊锦江体育公园
+2025-03-03 15:29:10,283 - static_scraper_test - INFO - 已添加景点: 新川之心公园东区
+2025-03-03 15:29:10,283 - static_scraper_test - INFO - 已添加景点: 四川博物院
+2025-03-03 15:29:10,784 - static_scraper_test - INFO - 正在搜索关键词: 旅游景点
+2025-03-03 15:29:12,610 - static_scraper_test - ERROR - 处理POI数据出错: can only concatenate str (not "list") to str
+2025-03-03 15:29:17,642 - static_scraper_test - INFO - 正在搜索关键词: 名胜古迹
+2025-03-03 15:29:19,425 - static_scraper_test - INFO - 已添加景点: 安仁古镇
+2025-03-03 15:29:19,425 - static_scraper_test - INFO - 已添加景点: 大邑县刘氏庄园博物馆
+2025-03-03 15:29:19,426 - static_scraper_test - INFO - 已添加景点: 洛带古镇
+2025-03-03 15:29:19,426 - static_scraper_test - INFO - 已添加景点: 燃灯古寺
+2025-03-03 15:29:19,426 - static_scraper_test - INFO - 已添加景点: 洛带古镇五凤楼
+2025-03-03 15:29:19,426 - static_scraper_test - INFO - 已添加景点: 杜甫草堂-茅屋故居
+2025-03-03 15:29:19,427 - static_scraper_test - INFO - 已添加景点: 万佛楼
+2025-03-03 15:29:19,427 - static_scraper_test - INFO - 已添加景点: 黄龙溪古镇
+2025-03-03 15:29:19,427 - static_scraper_test - INFO - 已添加景点: 街子古镇
+2025-03-03 15:29:19,427 - static_scraper_test - INFO - 已添加景点: 石经寺
+2025-03-03 15:29:19,427 - static_scraper_test - INFO - 已添加景点: 金沙遗址博物馆
+2025-03-03 15:29:19,427 - static_scraper_test - INFO - 已添加景点: 五凤溪古镇
+2025-03-03 15:29:19,428 - static_scraper_test - INFO - 已添加景点: 灌县古城
+2025-03-03 15:29:19,428 - static_scraper_test - INFO - 已添加景点: 都江堰文庙
+2025-03-03 15:29:19,428 - static_scraper_test - INFO - 已添加景点: 宝光桂湖文化旅游区宝光寺
+2025-03-03 15:29:21,862 - static_scraper_test - INFO - 已添加景点: 宝光寺-罗汉堂
+2025-03-03 15:29:21,862 - static_scraper_test - INFO - 已添加景点: 昭觉寺
+2025-03-03 15:29:21,863 - static_scraper_test - INFO - 已添加景点: 元通古镇
+2025-03-03 15:29:21,863 - static_scraper_test - INFO - 已添加景点: 平乐古镇
+2025-03-03 15:29:21,863 - static_scraper_test - INFO - 已添加景点: 三道堰古镇
+2025-03-03 15:29:21,863 - static_scraper_test - INFO - 已添加景点: 金龙长城
+2025-03-03 15:29:21,864 - static_scraper_test - INFO - 已添加景点: 木兰寺
+2025-03-03 15:29:21,864 - static_scraper_test - INFO - 已添加景点: 临邛古城
+2025-03-03 15:29:21,864 - static_scraper_test - INFO - 已添加景点: 新场古镇
+2025-03-03 15:29:21,864 - static_scraper_test - INFO - 已添加景点: 普照寺
+2025-03-03 15:29:21,864 - static_scraper_test - INFO - 已添加景点: 海窝子古镇
+2025-03-03 15:29:21,865 - static_scraper_test - INFO - 已添加景点: 温江文庙
+2025-03-03 15:29:21,865 - static_scraper_test - INFO - 已添加景点: 西来古镇
+2025-03-03 15:29:21,865 - static_scraper_test - INFO - 已添加景点: 白云寺
+2025-03-03 15:29:21,865 - static_scraper_test - INFO - 已添加景点: 怀远古镇
+2025-03-03 15:29:21,865 - static_scraper_test - INFO - 已添加景点: 夹关古镇
+2025-03-03 15:29:21,866 - static_scraper_test - INFO - 已添加景点: 泰安古镇
+2025-03-03 15:29:21,866 - static_scraper_test - INFO - 已添加景点: 琴台故径
+2025-03-03 15:29:21,866 - static_scraper_test - INFO - 已添加景点: 皇城清真寺
+2025-03-03 15:29:24,174 - static_scraper_test - INFO - 已添加景点: 猫猫庙
+2025-03-03 15:29:24,175 - static_scraper_test - INFO - 已添加景点: 唐昌古镇-崇槐里
+2025-03-03 15:29:24,175 - static_scraper_test - INFO - 已添加景点: 洛带古镇-博客楼
+2025-03-03 15:29:24,176 - static_scraper_test - INFO - 已添加景点: 都江堰景区秦堰楼
+2025-03-03 15:29:24,176 - static_scraper_test - INFO - 已添加景点: 赵公祖庙
+2025-03-03 15:29:24,176 - static_scraper_test - INFO - 已添加景点: 都江堰景区二王庙
+2025-03-03 15:29:24,176 - static_scraper_test - INFO - 已添加景点: 悦来古镇
+2025-03-03 15:29:24,176 - static_scraper_test - INFO - 已添加景点: 慈云寺
+2025-03-03 15:29:24,177 - static_scraper_test - INFO - 已添加景点: 新都钟楼
+2025-03-03 15:29:24,177 - static_scraper_test - INFO - 已添加景点: 开化寺
+2025-03-03 15:29:24,177 - static_scraper_test - INFO - 已添加景点: 崇州唐人街牌坊
+2025-03-03 15:29:24,177 - static_scraper_test - INFO - 已添加景点: 火井古镇
+2025-03-03 15:29:24,177 - static_scraper_test - INFO - 已添加景点: 老君阁
+2025-03-03 15:29:24,177 - static_scraper_test - INFO - 已添加景点: 般若寺
+2025-03-03 15:29:24,178 - static_scraper_test - INFO - 已添加景点: 客家杏花村
+2025-03-03 15:29:24,178 - static_scraper_test - INFO - 已添加景点: 三学禅院
+2025-03-03 15:29:24,178 - static_scraper_test - INFO - 已添加景点: 唐昌古镇文庙广场
+2025-03-03 15:29:24,178 - static_scraper_test - INFO - 已添加景点: 郫县古城遗址
+2025-03-03 15:29:24,178 - static_scraper_test - INFO - 已添加景点: 高堂寺
+2025-03-03 15:29:24,178 - static_scraper_test - INFO - 已添加景点: 开照寺
+2025-03-03 15:29:24,679 - static_scraper_test - INFO - 处理完成，共获取 113 个景点信息
+2025-03-03 15:29:24,679 - static_scraper_test - INFO - 成功获取 113 个景点数据
+2025-03-03 15:29:24,821 - static_scraper_test - INFO - 新增景点: 成都双子塔
+2025-03-03 15:29:24,823 - static_scraper_test - INFO - 新增景点: 锦城公园
+2025-03-03 15:29:24,825 - static_scraper_test - INFO - 新增景点: 成都江滩公园
+2025-03-03 15:29:24,827 - static_scraper_test - INFO - 新增景点: 桂溪生态公园
+2025-03-03 15:29:24,829 - static_scraper_test - INFO - 新增景点: 铁像寺
+2025-03-03 15:29:24,831 - static_scraper_test - INFO - 新增景点: 铁像寺水街
+2025-03-03 15:29:24,833 - static_scraper_test - INFO - 新增景点: 生机之塔
+2025-03-03 15:29:24,835 - static_scraper_test - INFO - 新增景点: 锦城湖
+2025-03-03 15:29:24,836 - static_scraper_test - INFO - 新增景点: 双子塔夜景打卡点
+2025-03-03 15:29:24,838 - static_scraper_test - INFO - 新增景点: 天府绿道
+2025-03-03 15:29:24,839 - static_scraper_test - INFO - 新增景点: 大源中央公园
+2025-03-03 15:29:24,841 - static_scraper_test - INFO - 新增景点: 中和湿地公园
+2025-03-03 15:29:24,843 - static_scraper_test - INFO - 新增景点: UPARK公园
+2025-03-03 15:29:24,845 - static_scraper_test - INFO - 新增景点: 东湖公园
+2025-03-03 15:29:24,846 - static_scraper_test - INFO - 新增景点: 桂溪生态公园西区
+2025-03-03 15:29:24,848 - static_scraper_test - INFO - 新增景点: 望江楼公园
+2025-03-03 15:29:24,850 - static_scraper_test - INFO - 新增景点: 成都武侯祠博物馆
+2025-03-03 15:29:24,851 - static_scraper_test - INFO - 新增景点: 桂溪生态公园东区
+2025-03-03 15:29:24,852 - static_scraper_test - INFO - 新增景点: 锦里古街
+2025-03-03 15:29:24,853 - static_scraper_test - INFO - 新增景点: 三圣花乡旅游区
+2025-03-03 15:29:24,855 - static_scraper_test - INFO - 新增景点: 环球中心海洋乐园
+2025-03-03 15:29:24,856 - static_scraper_test - INFO - 新增景点: 宽窄巷子景区
+2025-03-03 15:29:24,857 - static_scraper_test - INFO - 新增景点: 交子金融博物馆
+2025-03-03 15:29:24,859 - static_scraper_test - INFO - 新增景点: 哪吒雕像
+2025-03-03 15:29:24,861 - static_scraper_test - INFO - 新增景点: 近慈寺
+2025-03-03 15:29:24,862 - static_scraper_test - INFO - 新增景点: 立巢航空博物馆
+2025-03-03 15:29:24,864 - static_scraper_test - INFO - 新增景点: 人民公园
+2025-03-03 15:29:24,865 - static_scraper_test - INFO - 新增景点: 天府广场
+2025-03-03 15:29:24,867 - static_scraper_test - INFO - 新增景点: 东郊记忆
+2025-03-03 15:29:24,869 - static_scraper_test - INFO - 新增景点: 锦城湖2号湖区
+2025-03-03 15:29:24,871 - static_scraper_test - INFO - 新增景点: 三和老爷车博物馆
+2025-03-03 15:29:24,873 - static_scraper_test - INFO - 新增景点: 西蜀廊桥古镇
+2025-03-03 15:29:24,875 - static_scraper_test - INFO - 新增景点: 成都极地海洋公园
+2025-03-03 15:29:24,877 - static_scraper_test - INFO - 新增景点: 南湖公园
+2025-03-03 15:29:24,878 - static_scraper_test - INFO - 新增景点: 文殊院
+2025-03-03 15:29:24,880 - static_scraper_test - INFO - 新增景点: 成都博物馆
+2025-03-03 15:29:24,881 - static_scraper_test - INFO - 新增景点: 塔子山公园
+2025-03-03 15:29:24,882 - static_scraper_test - INFO - 新增景点: 隅上田园交子百业园
+2025-03-03 15:29:24,884 - static_scraper_test - INFO - 新增景点: 和平社区广场
+2025-03-03 15:29:24,885 - static_scraper_test - INFO - 新增景点: 成都大熊猫繁育研究基地
+2025-03-03 15:29:24,887 - static_scraper_test - INFO - 新增景点: 美洲四季滑雪场
+2025-03-03 15:29:24,888 - static_scraper_test - INFO - 新增景点: 成都杜甫草堂博物馆
+2025-03-03 15:29:24,890 - static_scraper_test - INFO - 新增景点: 大慈寺
+2025-03-03 15:29:24,892 - static_scraper_test - INFO - 新增景点: 江家艺苑
+2025-03-03 15:29:24,893 - static_scraper_test - INFO - 新增景点: 基督教光音堂
+2025-03-03 15:29:24,894 - static_scraper_test - INFO - 新增景点: 锦江公园
+2025-03-03 15:29:24,896 - static_scraper_test - INFO - 新增景点: 博雅城市广场
+2025-03-03 15:29:24,898 - static_scraper_test - INFO - 新增景点: 梵木Flying国际文创公园
+2025-03-03 15:29:24,900 - static_scraper_test - INFO - 新增景点: 幸福梅林
+2025-03-03 15:29:24,902 - static_scraper_test - INFO - 新增景点: 天府芙蓉园
+2025-03-03 15:29:24,904 - static_scraper_test - INFO - 新增景点: 锦城广场
+2025-03-03 15:29:24,906 - static_scraper_test - INFO - 新增景点: 四川大学博物馆
+2025-03-03 15:29:24,907 - static_scraper_test - INFO - 新增景点: 芙蓉岛公园
+2025-03-03 15:29:24,909 - static_scraper_test - INFO - 新增景点: 青羊宫
+2025-03-03 15:29:24,911 - static_scraper_test - INFO - 新增景点: 成都动物园
+2025-03-03 15:29:24,913 - static_scraper_test - INFO - 新增景点: 锦城湖4号湖区
+2025-03-03 15:29:24,915 - static_scraper_test - INFO - 新增景点: 水井坊锦江体育公园
+2025-03-03 15:29:24,917 - static_scraper_test - INFO - 新增景点: 新川之心公园东区
+2025-03-03 15:29:24,919 - static_scraper_test - INFO - 新增景点: 四川博物院
+2025-03-03 15:29:24,921 - static_scraper_test - INFO - 新增景点: 安仁古镇
+2025-03-03 15:29:24,923 - static_scraper_test - INFO - 新增景点: 大邑县刘氏庄园博物馆
+2025-03-03 15:29:24,925 - static_scraper_test - INFO - 新增景点: 洛带古镇
+2025-03-03 15:29:24,927 - static_scraper_test - INFO - 新增景点: 燃灯古寺
+2025-03-03 15:29:24,928 - static_scraper_test - INFO - 新增景点: 洛带古镇五凤楼
+2025-03-03 15:29:24,930 - static_scraper_test - INFO - 新增景点: 杜甫草堂-茅屋故居
+2025-03-03 15:29:24,932 - static_scraper_test - INFO - 新增景点: 万佛楼
+2025-03-03 15:29:24,934 - static_scraper_test - INFO - 新增景点: 黄龙溪古镇
+2025-03-03 15:29:24,935 - static_scraper_test - INFO - 新增景点: 街子古镇
+2025-03-03 15:29:24,937 - static_scraper_test - INFO - 新增景点: 石经寺
+2025-03-03 15:29:24,939 - static_scraper_test - INFO - 新增景点: 金沙遗址博物馆
+2025-03-03 15:29:24,941 - static_scraper_test - INFO - 新增景点: 五凤溪古镇
+2025-03-03 15:29:24,943 - static_scraper_test - INFO - 新增景点: 灌县古城
+2025-03-03 15:29:24,945 - static_scraper_test - INFO - 新增景点: 都江堰文庙
+2025-03-03 15:29:24,947 - static_scraper_test - INFO - 新增景点: 宝光桂湖文化旅游区宝光寺
+2025-03-03 15:29:24,949 - static_scraper_test - INFO - 新增景点: 宝光寺-罗汉堂
+2025-03-03 15:29:24,950 - static_scraper_test - INFO - 新增景点: 昭觉寺
+2025-03-03 15:29:24,952 - static_scraper_test - INFO - 新增景点: 元通古镇
+2025-03-03 15:29:24,954 - static_scraper_test - INFO - 新增景点: 平乐古镇
+2025-03-03 15:29:24,955 - static_scraper_test - INFO - 新增景点: 三道堰古镇
+2025-03-03 15:29:24,957 - static_scraper_test - INFO - 新增景点: 金龙长城
+2025-03-03 15:29:24,959 - static_scraper_test - INFO - 新增景点: 木兰寺
+2025-03-03 15:29:24,961 - static_scraper_test - INFO - 新增景点: 临邛古城
+2025-03-03 15:29:24,963 - static_scraper_test - INFO - 新增景点: 新场古镇
+2025-03-03 15:29:24,965 - static_scraper_test - INFO - 新增景点: 普照寺
+2025-03-03 15:29:24,967 - static_scraper_test - INFO - 新增景点: 海窝子古镇
+2025-03-03 15:29:24,969 - static_scraper_test - INFO - 新增景点: 温江文庙
+2025-03-03 15:29:24,970 - static_scraper_test - INFO - 新增景点: 西来古镇
+2025-03-03 15:29:24,972 - static_scraper_test - INFO - 新增景点: 白云寺
+2025-03-03 15:29:24,974 - static_scraper_test - INFO - 新增景点: 怀远古镇
+2025-03-03 15:29:24,976 - static_scraper_test - INFO - 新增景点: 夹关古镇
+2025-03-03 15:29:24,977 - static_scraper_test - INFO - 新增景点: 泰安古镇
+2025-03-03 15:29:24,979 - static_scraper_test - INFO - 新增景点: 琴台故径
+2025-03-03 15:29:24,981 - static_scraper_test - INFO - 新增景点: 皇城清真寺
+2025-03-03 15:29:24,983 - static_scraper_test - INFO - 新增景点: 猫猫庙
+2025-03-03 15:29:24,985 - static_scraper_test - INFO - 新增景点: 唐昌古镇-崇槐里
+2025-03-03 15:29:24,987 - static_scraper_test - INFO - 新增景点: 洛带古镇-博客楼
+2025-03-03 15:29:24,988 - static_scraper_test - INFO - 新增景点: 都江堰景区秦堰楼
+2025-03-03 15:29:24,990 - static_scraper_test - INFO - 新增景点: 赵公祖庙
+2025-03-03 15:29:24,992 - static_scraper_test - INFO - 新增景点: 都江堰景区二王庙
+2025-03-03 15:29:24,993 - static_scraper_test - INFO - 新增景点: 悦来古镇
+2025-03-03 15:29:24,995 - static_scraper_test - INFO - 新增景点: 慈云寺
+2025-03-03 15:29:24,997 - static_scraper_test - INFO - 新增景点: 新都钟楼
+2025-03-03 15:29:24,998 - static_scraper_test - INFO - 新增景点: 开化寺
+2025-03-03 15:29:25,000 - static_scraper_test - INFO - 新增景点: 崇州唐人街牌坊
+2025-03-03 15:29:25,003 - static_scraper_test - INFO - 新增景点: 火井古镇
+2025-03-03 15:29:25,004 - static_scraper_test - INFO - 新增景点: 老君阁
+2025-03-03 15:29:25,006 - static_scraper_test - INFO - 新增景点: 般若寺
+2025-03-03 15:29:25,009 - static_scraper_test - INFO - 新增景点: 客家杏花村
+2025-03-03 15:29:25,011 - static_scraper_test - INFO - 新增景点: 三学禅院
+2025-03-03 15:29:25,012 - static_scraper_test - INFO - 新增景点: 唐昌古镇文庙广场
+2025-03-03 15:29:25,013 - static_scraper_test - INFO - 新增景点: 郫县古城遗址
+2025-03-03 15:29:25,015 - static_scraper_test - INFO - 新增景点: 高堂寺
+2025-03-03 15:29:25,017 - static_scraper_test - INFO - 新增景点: 开照寺
+2025-03-03 15:29:25,017 - static_scraper_test - INFO - 数据库操作完成: 新增 113 个景点，更新 0 个景点
+2025-03-03 15:29:25,018 - static_scraper_test - INFO - 景点 1 信息: {
+  "name": "成都双子塔",
+  "location_lng": 104.064759,
+  "location_lat": 30.582588,
+  "description": "冰花,元宵",
+  "category": "商务住宅;楼宇;商务写字楼",
+  "address": "交子北一路与交子大道交叉口东60米",
+  "opening_hours": "09:00-17:00",
+  "ticket_price": 0.0,
+  "images": []
+}
+2025-03-03 15:29:25,018 - static_scraper_test - INFO - 景点 2 信息: {
+  "name": "锦城公园",
+  "location_lng": 104.052308,
+  "location_lat": 30.570449,
+  "description": [],
+  "category": "风景名胜;公园广场;公园",
+  "address": "益州大道北段1666号",
+  "opening_hours": "09:00-17:00",
+  "ticket_price": 0.0,
+  "images": []
+}
+2025-03-03 15:29:25,019 - static_scraper_test - INFO - 景点 3 信息: {
+  "name": "成都江滩公园",
+  "location_lng": 104.080905,
+  "location_lat": 30.555514,
+  "description": [],
+  "category": "风景名胜;公园广场;公园",
+  "address": "世纪城路",
+  "opening_hours": "09:00-17:00",
+  "ticket_price": 0.0,
+  "images": []
+}

@@ -1,0 +1,17 @@
+2025-03-03 15:00:43,293 - dianping_spider_test - INFO - 开始测试爬虫
+2025-03-03 15:00:43,294 - dianping_spider_test - INFO - 正在爬取页面: http://www.dianping.com/chengdu/ch30/g119/p1
+2025-03-03 15:00:46,799 - dianping_spider_test - WARNING - 请求失败，状态码: 403, URL: http://www.dianping.com/chengdu/ch30/g119/p1
+2025-03-03 15:00:46,799 - dianping_spider_test - INFO - 爬取完成，共获取 0 个景点信息
+2025-03-03 15:00:46,800 - dianping_spider_test - WARNING - 未获取到任何景点数据
+2025-03-03 15:03:16,326 - dianping_spider_test - INFO - 开始测试爬虫
+2025-03-03 15:03:16,379 - dianping_spider_test - INFO - 使用User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+2025-03-03 15:03:16,387 - dianping_spider_test - INFO - 正在访问首页: https://www.dianping.com/chengdu/ch30/g119
+2025-03-03 15:03:26,259 - dianping_spider_test - WARNING - 未找到景点列表，可能需要更新选择器。URL: https://www.dianping.com/chengdu/ch30/g119
+2025-03-03 15:03:26,260 - dianping_spider_test - INFO - 页面上找到 0 个链接
+2025-03-03 15:03:26,260 - dianping_spider_test - INFO - 正在访问首页: https://www.dianping.com/chengdu/ch30
+2025-03-03 15:03:36,124 - dianping_spider_test - WARNING - 未找到景点列表，可能需要更新选择器。URL: https://www.dianping.com/chengdu/ch30
+2025-03-03 15:03:36,125 - dianping_spider_test - INFO - 页面上找到 0 个链接
+2025-03-03 15:03:36,125 - dianping_spider_test - INFO - 正在访问首页: https://www.dianping.com/chengdu/attraction
+2025-03-03 15:03:43,119 - dianping_spider_test - WARNING - 请求失败，状态码: 404, URL: https://www.dianping.com/chengdu/attraction
+2025-03-03 15:03:43,119 - dianping_spider_test - INFO - 爬取完成，共获取 0 个景点信息
+2025-03-03 15:03:43,121 - dianping_spider_test - WARNING - 未获取到任何景点数据
